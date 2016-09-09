@@ -40,5 +40,13 @@
   },
   "dependencies": {
     "vokaler": "0.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerbf/swedish.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rogerbf/swedish/issues"
+  },
+  "homepage": "https://github.com/rogerbf/swedish#readme"
 }
