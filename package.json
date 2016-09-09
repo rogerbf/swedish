@@ -1,7 +1,7 @@
 {
   "name": "swedish",
   "version": "0.0.1",
-  "description": "",
+  "description": "the swedish language",
   "main": "./dist/index.js",
   "scripts": {
     "test": "echo 'no tests'",
@@ -11,7 +11,7 @@
     "start": "npm run build && node ./dist/index.js",
     "start:watch": "nodemon --watch src -x npm run start"
   },
-  "keywords": [],
+  "keywords": ["language", "swedish"],
   "author": "rogerbf <roger@bergfalk.nu> (http://bergfalk.nu/)",
   "license": "MIT",
   "devDependencies": {
