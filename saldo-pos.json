@@ -1,0 +1,370 @@
+{
+  "nn": {
+    "sv": {
+      "category": "substantiv",
+      "explicit": "substantiv"
+    },
+    "en": {
+      "category": "noun",
+      "explicit": "noun"
+    }
+  },
+  "av": {
+    "sv": {
+      "category": "adjektiv",
+      "explicit": "adjektiv"
+    },
+    "en": {
+      "category": "adjective",
+      "explicit": "adjective"
+    }
+  },
+  "vb": {
+    "sv": {
+      "category": "verb",
+      "explicit": "verb"
+    },
+    "en": {
+      "category": "verb",
+      "explicit": "verb"
+    }
+  },
+  "pm": {
+    "sv": {
+      "category": "egennamn",
+      "explicit": "egennamn"
+    },
+    "en": {
+      "category": "proper noun",
+      "explicit": "proper noun"
+    }
+  },
+  "ab": {
+    "sv": {
+      "category": "adverb",
+      "explicit": "adverb"
+    },
+    "en": {
+      "category": "adverb",
+      "explicit": "adverb"
+    }
+  },
+  "in": {
+    "sv": {
+      "category": "interjektion",
+      "explicit": "interjektion"
+    },
+    "en": {
+      "category": "interjection",
+      "explicit": "interjection"
+    }
+  },
+  "pp": {
+    "sv": {
+      "category": "preposition",
+      "explicit": "preposition"
+    },
+    "en": {
+      "category": "preposition",
+      "explicit": "preposition"
+    }
+  },
+  "nl": {
+    "sv": {
+      "category": "numeral",
+      "explicit": "numeral"
+    },
+    "en": {
+      "category": "numeral",
+      "explicit": "numeral"
+    }
+  },
+  "pn": {
+    "sv": {
+      "category": "pronomen",
+      "explicit": "pronomen"
+    },
+    "en": {
+      "category": "pronoun",
+      "explicit": "pronoun"
+    }
+  },
+  "sn": {
+    "sv": {
+      "category": "subjunktion",
+      "explicit": "subjunktion"
+    },
+    "en": {
+      "category": "subjunction",
+      "explicit": "subjunction"
+    }
+  },
+  "kn": {
+    "sv": {
+      "category": "konjunktion",
+      "explicit": "konjunktion"
+    },
+    "en": {
+      "category": "conjunction",
+      "explicit": "conjunction"
+    }
+  },
+  "al": {
+    "sv": {
+      "category": "artikel",
+      "explicit": "artikel"
+    },
+    "en": {
+      "category": "article",
+      "explicit": "article"
+    }
+  },
+  "ie": {
+    "sv": {
+      "category": "infinitivmärke",
+      "explicit": "infinitivmärke"
+    },
+    "en": {
+      "category": "infinitive particle",
+      "explicit": "infinitive particle"
+    }
+  },
+  "mxc": {
+    "sv": {
+      "category": "flerordsprefix",
+      "explicit": "flerordsprefix"
+    },
+    "en": {
+      "category": "prefix",
+      "explicit": "multiword prefix"
+    }
+  },
+  "sxc": {
+    "sv": {
+      "category": "prefix",
+      "explicit": "prefix"
+    },
+    "en": {
+      "category": "prefix",
+      "explicit": "prefix"
+    }
+  },
+  "abh": {
+    "sv": {
+      "category": "adverbsuffix",
+      "explicit": "adverbsuffix"
+    },
+    "en": {
+      "category": "adverb suffix",
+      "explicit": "adverb suffix"
+    }
+  },
+  "avh": {
+    "sv": {
+      "category": "adjektivsuffix",
+      "explicit": "adjektivsuffix"
+    },
+    "en": {
+      "category": "adjective suffix",
+      "explicit": "adjective suffix"
+    }
+  },
+  "nnh": {
+    "sv": {
+      "explicit": "substantivsuffix"
+    },
+    "en": {
+      "explicit": "noun suffix"
+    }
+  },
+  "nnm": {
+    "sv": {
+      "category": "substantiv",
+      "explicit": "substantiv, flerording"
+    },
+    "en": {
+      "category": "multiword noun",
+      "explicit": "multiword noun"
+    }
+  },
+  "nna": {
+    "sv": {
+      "category": "substantiv",
+      "explicit": "substantiv, förkortning"
+    },
+    "en": {
+      "category": "noun",
+      "explicit": "noun, abbreviation"
+    }
+  },
+  "avm": {
+    "sv": {
+      "category": "adjektiv",
+      "explicit": "adjektiv, flerording"
+    },
+    "en": {
+      "category": "multiword adjective",
+      "explicit": "multiword adjective"
+    }
+  },
+  "ava": {
+    "sv": {
+      "category": "adjektiv",
+      "explicit": "adjektiv, förkortning"
+    },
+    "en": {
+      "category": "adjective",
+      "explicit": "adjective, abbreviation"
+    }
+  },
+  "vbm": {
+    "sv": {
+      "category": "verb",
+      "explicit": "verb, flerording"
+    },
+    "en": {
+      "category": "multiword verb",
+      "explicit": "multiword verb"
+    }
+  },
+  "vba": {
+    "sv": {
+      "category": "verb",
+      "explicit": "verb, förkortning"
+    },
+    "en": {
+      "category": "verb",
+      "explicit": "verb, abbreviation"
+    }
+  },
+  "pmm": {
+    "sv": {
+      "category": "egennamn",
+      "explicit": "egennamn, flerording"
+    },
+    "en": {
+      "category": "multiword proper noun",
+      "explicit": "multiword proper noun"
+    }
+  },
+  "pma": {
+    "sv": {
+      "category": "egennamn",
+      "explicit": "egennamn, förkortning"
+    },
+    "en": {
+      "category": "proper noun",
+      "explicit": "proper noun, abbreviation"
+    }
+  },
+  "abm": {
+    "sv": {
+      "category": "adverb",
+      "explicit": "adverb, flerording"
+    },
+    "en": {
+      "category": "multiword adverb",
+      "explicit": "multiword adverb"
+    }
+  },
+  "aba": {
+    "sv": {
+      "category": "adverb",
+      "explicit": "adverb, förkortning"
+    },
+    "en": {
+      "category": "adverb",
+      "explicit": "adverb, abbreviation"
+    }
+  },
+  "pnm": {
+    "sv": {
+      "category": "pronomen",
+      "explicit": "pronomen, flerording"
+    },
+    "en": {
+      "category": "multiword pronoun",
+      "explicit": "multiword pronoun"
+    }
+  },
+  "inm": {
+    "sv": {
+      "category": "interjektion",
+      "explicit": "interjektion, flerording"
+    },
+    "en": {
+      "category": "multiword interjection",
+      "explicit": "multiword interjection"
+    }
+  },
+  "ppm": {
+    "sv": {
+      "category": "preposition",
+      "explicit": "preposition, flerording"
+    },
+    "en": {
+      "category": "multiword preposition",
+      "explicit": "multiword preposition"
+    }
+  },
+  "ppa": {
+    "sv": {
+      "category": "preposition",
+      "explicit": "preposition, förkortning"
+    },
+    "en": {
+      "category": "preposition",
+      "explicit": "preposition, abbreviation"
+    }
+  },
+  "nlm": {
+    "sv": {
+      "category": "numeral",
+      "explicit": "numeral, flerording"
+    },
+    "en": {
+      "category": "multiword numeral",
+      "explicit": "numeral, multiword"
+    }
+  },
+  "knm": {
+    "sv": {
+      "category": "konjunktion",
+      "explicit": "konjunktion, flerording"
+    },
+    "en": {
+      "category": "multiword conjunction",
+      "explicit": "multiword conjunction"
+    }
+  },
+  "snm": {
+    "sv": {
+      "category": "subjunktion",
+      "explicit": "subjunktion, flerording"
+    },
+    "en": {
+      "category": "multiword subjunction",
+      "explicit": "multiword subjunction"
+    }
+  },
+  "kna": {
+    "sv": {
+      "category": "konjunktion",
+      "explicit": "konjunktion, förkortning"
+    },
+    "en": {
+      "category": "conjunction",
+      "explicit": "conjunction, abbreviation"
+    }
+  },
+  "ssm": {
+    "sv": {
+      "category": "flerord.",
+      "explicit": "flerording"
+    },
+    "en": {
+      "category": "multiword",
+      "explicit": "multiword"
+    }
+  }
+}
